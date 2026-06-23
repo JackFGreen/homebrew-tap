@@ -1,8 +1,8 @@
 class DotfilesSync < Formula
   desc "Dotfiles bidirectional sync tool with age encryption support"
   homepage "https://github.com/JackFGreen/dotfiles-sync"
-  url "https://github.com/JackFGreen/dotfiles-sync/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0c4a3f93640fad5d723a3990cb79eb0a551a4d1e6d117140a2b0c9629401f03d"
+  url "https://github.com/JackFGreen/dotfiles-sync/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "dab5de18b0a4bad63a25912848f992e5d8ea09e7a4d580a5e007c28562372eec"
   license "MIT"
 
   depends_on "age" => :optional
